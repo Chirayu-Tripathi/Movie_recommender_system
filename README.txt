@@ -82,7 +82,7 @@ Ratings are made on a 5-star scale, with half-star increments (0.5 stars - 5.0 s
 
 Timestamps represent seconds since midnight Coordinated Universal Time (UTC) of January 1, 1970.
 
-Tags Data File Structure (tags.csv)
+Tags Data File Structure (tags.csv).
 -----------------------------------
 
 All tags are contained in the file `tags.csv`. Each line of this file after the header row represents one tag applied to one movie by one user, and has the following format:
